@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OpenGL_Game.Camera" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAGQAAAAAAAAAAAAAAAAAEABEAAAAAAQAEAAAAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.MainEntry" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Managers.CollisionManager" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Managers\CollisionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Managers.RenderManager" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAICAAIAAAAAgAAAAAAAAAAAAgAAAAAAAAABAAAIAA=</HashCode>
+      <FileName>Managers\RenderManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Managers.ResourceManager" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAQAAAAAAAAEAAAAAAAAEBAAAAAAAAAAA=</HashCode>
+      <FileName>Managers\ResourceManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Managers.SceneManager" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABggAAAADiAAQAUAgAAKACABIAACABIAAAAAAAggE=</HashCode>
+      <FileName>Managers\SceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Objects.Drone" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Drone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Objects.GameObject" Collapsed="true">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAAAAAAAAIAAAAQAEAABAAAQAAAAAAAA=</HashCode>
+      <FileName>Objects\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Objects.Maze" Collapsed="true">
+    <Position X="9.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Maze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Objects.Player" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Objects.Portal" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Portal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Objects.PortalKey" Collapsed="true">
+    <Position X="5.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\PortalKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjLoader.Loader.Common.StringExtensions" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAiAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Common\StringExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjLoader.Loader.Data.DataStore.DataStore" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAECAEQAQAABAAFABAoAAAAAAACgEEAwAAAAACAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\DataStore\DataStore.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ObjLoader.Loader.Data.Elements.Face" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAACAAAAAQAAAAAACAAAAgAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\Elements\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjLoader.Loader.Data.Elements.Group" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAIAAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\Elements\Group.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ObjLoader.Loader.Data.Material" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQCAAgAAAAAAAAAAAABAQAACCAAACCAABAAUAAgAE=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\Material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjLoader.Loader.Loaders.LoaderBase" Collapsed="true">
+    <Position X="6.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\LoaderBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjLoader.Loader.Loaders.LoadResult" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEAAEAAAAABAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\LoadResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjLoader.Loader.Loaders.MaterialLibraryLoader" Collapsed="true">
+    <Position X="5.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAQABAAIAEAAYAAAAAAAAAAAAAAAAYIAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\MaterialLibraryLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObjLoader.Loader.Loaders.MaterialLibraryLoaderFacade" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\MaterialLibraryLoaderFacade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ObjLoader.Loader.Loaders.MaterialStreamProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\MaterialStreamProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ObjLoader.Loader.Loaders.MaterialNullStreamProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\MaterialStreamProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ObjLoader.Loader.Loaders.ObjLoader" Collapsed="true">
+    <Position X="7.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAACQAQEBAIAAAAAAAACIAAAAABAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\ObjLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObjLoader.Loader.Loaders.ObjLoaderFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\ObjLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ObjLoader.Loader.TypeParsers.FaceParser" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAQAAAAAAgQAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\FaceParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObjLoader.Loader.TypeParsers.GroupParser" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAABAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\GroupParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObjLoader.Loader.TypeParsers.MaterialLibraryParser" Collapsed="true">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAE=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\MaterialLibraryParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObjLoader.Loader.TypeParsers.NormalParser" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\NormalParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObjLoader.Loader.TypeParsers.TextureParser" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAIAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\TextureParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObjLoader.Loader.TypeParsers.TypeParserBase" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\TypeParserBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObjLoader.Loader.TypeParsers.UseMaterialParser" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAIAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\UseMaterialParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObjLoader.Loader.TypeParsers.VertexParser" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\VertexParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OpenGL_Game.OBJLoader.Group" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACCAARAAABAAAAAQAAIAAAAQAgAAAAgQAAAAAAA=</HashCode>
+      <FileName>OBJLoader\Geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.OBJLoader.Geometry" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAAAAAAAAAAAACAAAIAAAAAAgAABAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\Geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Scenes.GameScene" Collapsed="true">
+    <Position X="2.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwQAAAAAAgAQgEAAAFAsAAAAgBIBAAABEBUAAQCAAAA=</HashCode>
+      <FileName>Scenes\GameScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Scenes.GUI" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEGAACAAABAgAAAQAAAAAAIACAARAAAAAAAAA=</HashCode>
+      <FileName>Scenes\GUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Scenes.MainMenuScene" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAABAAAACAAAA=</HashCode>
+      <FileName>Scenes\MainMenuScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL_Game.Scenes.Scene" Collapsed="true">
+    <Position X="1.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAABACAAAA=</HashCode>
+      <FileName>Scenes\Scene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="ObjLoader.Loader.Data.Elements.FaceVertex" Collapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAg=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\Elements\Face.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ObjLoader.Loader.Data.Vec3" Collapsed="true">
+    <Position X="22.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\Vec3.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ObjLoader.Loader.Data.VertexData.Normal" Collapsed="true">
+    <Position X="18.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\VertexData\Normal.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ObjLoader.Loader.Data.VertexData.Texture" Collapsed="true">
+    <Position X="20.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\VertexData\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ObjLoader.Loader.Data.VertexData.Vertex" Collapsed="true">
+    <Position X="24" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\VertexData\Vertex.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ObjLoader.Loader.Data.DataStore.IDataStore" Collapsed="true">
+    <Position X="17" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEAAEAAAAABAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\DataStore\IDataStore.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Data.DataStore.IElementGroup" Collapsed="true">
+    <Position X="18.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\DataStore\IElementGroup.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Data.DataStore.IFaceGroup" Collapsed="true">
+    <Position X="20.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\DataStore\IFaceGroup.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Data.DataStore.IGroupDataStore" Collapsed="true">
+    <Position X="22.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\DataStore\IGroupDataStore.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Data.DataStore.IMaterialLibrary" Collapsed="true">
+    <Position X="24" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\DataStore\IMaterialLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Data.DataStore.INormalDataStore" Collapsed="true">
+    <Position X="22.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\DataStore\INormalDataStore.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Data.DataStore.ITextureDataStore" Collapsed="true">
+    <Position X="20.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\DataStore\ITextureDataStore.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Data.DataStore.IVertexDataStore" Collapsed="true">
+    <Position X="22.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Data\DataStore\IVertexDataStore.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Loaders.IMaterialLibraryLoader" Collapsed="true">
+    <Position X="17" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\IMaterialLibraryLoader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Loaders.IMaterialLibraryLoaderFacade" Collapsed="true">
+    <Position X="18.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\IMaterialLibraryLoaderFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Loaders.IObjLoader" Collapsed="true">
+    <Position X="24" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\IObjLoader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Loaders.IObjLoaderFactory" Collapsed="true">
+    <Position X="17" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\IObjLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.Loaders.IMaterialStreamProvider" Collapsed="true">
+    <Position X="20.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\Loaders\ObjLoaderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.TypeParsers.Interfaces.IFaceParser" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\Interfaces\IFaceParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.TypeParsers.Interfaces.IGroupParser" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\Interfaces\IGroupParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.TypeParsers.Interfaces.IMaterialLibraryParser" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\Interfaces\IMaterialLibraryParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.TypeParsers.Interfaces.INormalParser" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\Interfaces\INormalParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.TypeParsers.Interfaces.ITextureParser" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\Interfaces\ITextureParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.TypeParsers.Interfaces.ITypeParser" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\Interfaces\ITypeParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.TypeParsers.Interfaces.IUseMaterialParser" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\Interfaces\IUseMaterialParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObjLoader.Loader.TypeParsers.Interfaces.IVertexParser" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OBJLoader\CjClutter.ObjLoader.Loader\TypeParsers\Interfaces\IVertexParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OpenGL_Game.Scenes.IScene" Collapsed="true">
+    <Position X="18.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAACAAAA=</HashCode>
+      <FileName>Scenes\IScene.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="OpenGL_Game.Scenes.SceneTypes" Collapsed="true">
+    <Position X="17" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAiAAAA=</HashCode>
+      <FileName>Scenes\IScene.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

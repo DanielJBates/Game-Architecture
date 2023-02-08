@@ -1,0 +1,302 @@
+# Blender MTL File: 'CompleteMap.blend'
+# Material Count: 25
+
+newmtl 1x1
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1.001
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1.002
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.004
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.005
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.006
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.007
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.008
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.009
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.010
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.011
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.012
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 1x1_side.013
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 3x1
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 3.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 3.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 3x1.001
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 3.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 3.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 3x1.002
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 2.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 2.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 3x1.003
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 2.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 2.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 3x1.004
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 5.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 5.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 3x1.005
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 2.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 2.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 3x1.006
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 8.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 8.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 3x1.007
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 6.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 6.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 3x1.008
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 5.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 5.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl 4x1
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1.000000 4.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+map_d -s 1.000000 4.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Walls\\Metal_Plate_013_basecolor.jpg
+
+newmtl Material.001
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 6.000000 6.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Floor\\Metal_Plate_Sci-Fi_002_basecolor.jpg
+map_d -s 6.000000 6.000000 1.000000 C:\\Users\\DBate\\Documents\\UniWork\\Uni-Programming-Projects\\Year 3 Term 1\\Game Architecture\\Textures\\Floor\\Metal_Plate_Sci-Fi_002_basecolor.jpg
