@@ -40,7 +40,7 @@ namespace OpenGL_Game.Game.Scenes
 
             //Display the Title
             float width = sceneManager.Width, height = sceneManager.Height, fontSize = Math.Min(width, height) / 10f;
-            GUI.Label(new Rectangle(0, (int)(fontSize / 2f), (int)width, (int)(fontSize * 3f)), "A WINNER IS YOU", (int)fontSize, StringAlignment.Center);
+            GUI.Label(new Rectangle(0, (int)(fontSize / 2f), (int)width, (int)(fontSize * 3f)), "YOU WIN", (int)fontSize, StringAlignment.Center);
 
             GUI.Render();
         }

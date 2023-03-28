@@ -32,21 +32,21 @@ namespace OpenGL_Game.Game.Managers
                     {
                         GameScene.gameInstance.sceneManager.Exit();
                     }
-                    if (Keyboard.GetState().IsKeyDown(Key.Up) || Keyboard.GetState(0).IsKeyDown(Key.W))
+                    if (Keyboard.GetState().IsKeyDown(Key.Up) || Keyboard.GetState().IsKeyDown(Key.W))
                     {
                         GameScene.gameInstance.player.Camera.MoveForward(0.1f);
                     }
-                    if (Keyboard.GetState().IsKeyDown(Key.Down) || Keyboard.GetState(0).IsKeyDown(Key.S))
+                    if (Keyboard.GetState().IsKeyDown(Key.Down) || Keyboard.GetState().IsKeyDown(Key.S))
                     {
                         GameScene.gameInstance.player.Camera.MoveForward(-0.1f);
                     }
-                    if (Keyboard.GetState().IsKeyDown(Key.Left) || Keyboard.GetState(0).IsKeyDown(Key.A))
+                    if (Keyboard.GetState().IsKeyDown(Key.Left) || Keyboard.GetState().IsKeyDown(Key.A))
                     {
-                        GameScene.gameInstance.player.Camera.RotateY(-0.01f);
+                        GameScene.gameInstance.player.Camera.RotateY(-0.05f);
                     }
-                    if (Keyboard.GetState().IsKeyDown(Key.Right) || Keyboard.GetState(0).IsKeyDown(Key.D))
+                    if (Keyboard.GetState().IsKeyDown(Key.Right) || Keyboard.GetState().IsKeyDown(Key.D))
                     {
-                        GameScene.gameInstance.player.Camera.RotateY(0.01f);
+                        GameScene.gameInstance.player.Camera.RotateY(0.05f);
                     }
                     if (Keyboard.GetState().IsKeyDown(Key.M))
                     {
